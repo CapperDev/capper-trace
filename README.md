@@ -1,4 +1,5 @@
 Capper-Trace
+
 Capper-Trace is a forensic and investigation script for FiveM RP servers.
 The script focuses on long term police investigations, realistic evidence handling, and criminal counterplay.
 Every action can leave traces behind. Police can investigate them. Criminals can clean them up or avoid leaving them in the first place.
@@ -7,27 +8,19 @@ Features
 Evidence System
 Players can leave behind:
 
-
 Fingerprints
-
 
 Blood
 
-
 DNA
-
 
 Bullet casings
 
-
 Cigarettes
-
 
 Fibers
 
-
 Vehicle traces
-
 
 Evidence can be collected and analyzed later.
 
